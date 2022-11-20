@@ -1,0 +1,38 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+a.logo1 {
+    color: black;
+}
+a.logo2 {
+    color: rgb(33, 150, 243);
+}
+
+
+
+a {
+    color: rgb(21, 21, 21);
+    text-decoration: none;
+}
+
+a.active {
+    color: rgb(33, 150, 243)
+}
+
+a:hover {
+    color: rgb(33, 150, 243);
+}
+
+ul button {
+    color: rgb(21, 21, 21);
+    background-color: #f5f4fa;
+    border: none;
+}
+ul button:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(33, 150, 243);
+} 
+
