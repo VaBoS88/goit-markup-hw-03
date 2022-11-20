@@ -25,11 +25,14 @@ ul button:hover {
     background-color: rgb(33, 150, 243);
 } 
 
-.logo1 {
+.logopart1 {
     color: rgb(33, 150, 243);
 }
-.logo2 {
+.logopart2 {
     color: black;
+}
+.logopart3 {
+    color: rgb(255, 255, 255);
 }
 
 h3 {
@@ -37,4 +40,13 @@ h3 {
 }
 p {
     color: rgb(117, 117, 117);
+}
+footer { 
+    background-color: rgb(47, 48, 58);
+}
+.adres {
+    color: rgb(255, 255, 255);
+}
+.adres a {
+    color: rgb(255, 255, 255);
 }
