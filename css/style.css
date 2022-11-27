@@ -2,18 +2,23 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+/*kolor tekstu do 'a' - header*/
 a {
     color: rgb(21, 21, 21);
     text-decoration: none;
 }
 
+/*kolor tekstu a(kontakt) - header*/
 a.kontakt1, a.kontakt2 {
         color: rgb(117, 117, 117);
 }
+
+/*Elementy interaktywne*/
 a.active, a:hover {
     color: rgb(33, 150, 243)
 }
 
+/*Przyciski*/
 ul button {
     color: rgb(21, 21, 21);
     background-color: rgb(245, 244, 250);
@@ -25,6 +30,7 @@ ul button:hover {
     background-color: rgb(33, 150, 243);
 } 
 
+/*Logotyp header i footer*/
 .logopart1 {
     color: rgb(33, 150, 243);
 }
@@ -35,12 +41,17 @@ ul button:hover {
     color: rgb(255, 255, 255);
 }
 
+/*Kolory tekstu pod zdjięciami*/
 h3 {
-    color: rgb(21, 21, 21)
+    color: rgb(21, 21, 21);
+    font-size: ;
+    
 }
 p {
     color: rgb(117, 117, 117);
 }
+
+/*Koloty footer*/
 footer { 
     background-color: rgb(47, 48, 58);
 }
