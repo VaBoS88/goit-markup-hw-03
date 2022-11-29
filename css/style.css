@@ -1,5 +1,9 @@
 body {
     font-family: "Roboto", sans-serif;
+    color: rgb(21, 21, 21);
+}
+.logo {
+    font-family: "raleway";
 }
 
 /*kolor tekstu do 'a' - header*/
