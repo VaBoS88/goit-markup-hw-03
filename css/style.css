@@ -15,29 +15,30 @@ a.kontakt1, a.kontakt2 {
 
 /*Elementy interaktywne*/
 a.active, a:hover {
-    color: rgb(33, 150, 243)
+    color: rgb(33, 150, 243);
 }
 
 /*Przyciski*/
-ul button {
+button {
     color: rgb(21, 21, 21);
     background-color: rgb(245, 244, 250);
     border: none;
     cursor: pointer;
 }
-ul button:hover {
+button:hover {
     color: rgb(255, 255, 255);
     background-color: rgb(33, 150, 243);
 } 
 
 /*Logotyp header i footer*/
-.logopart1 {
+.part1 {
     color: rgb(33, 150, 243);
+    font-family: ;
 }
-.logopart2 {
+.part2 {
     color: black;
 }
-.logopart3 {
+.part3 {
     color: rgb(255, 255, 255);
 }
 
@@ -59,5 +60,14 @@ footer {
     color: rgb(255, 255, 255);
 }
 .adres a {
+    color: rgb(255, 255, 255);
+    opacity: 0.6;
+}
+.adres a:hover {
+    color: rgb(33, 150, 243);
+}
+/*agencja*/
+.first {
+    background-color: rgb(47, 48, 58);
     color: rgb(255, 255, 255);
 }
