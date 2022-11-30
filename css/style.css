@@ -2,6 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: rgb(21, 21, 21);
 }
+
 .logo {
     font-family: "raleway";
     font-weight: 700;
@@ -14,12 +15,14 @@ a {
 }
 
 /*kolor tekstu a(kontakt) - header*/
-a.kontakt1, a.kontakt2 {
-        color: rgb(117, 117, 117);
+a.kontakt1,
+a.kontakt2 {
+    color: rgb(117, 117, 117);
 }
 
 /*Elementy interaktywne*/
-a.active, a:hover {
+a.active,
+a:hover {
     color: rgb(33, 150, 243);
 }
 
@@ -30,19 +33,22 @@ button {
     border: none;
     cursor: pointer;
 }
+
 button:hover {
     color: rgb(255, 255, 255);
     background-color: rgb(33, 150, 243);
-} 
+}
 
 /*Logotyp header i footer*/
 .part1 {
     color: rgb(33, 150, 243);
     font-family: ;
 }
+
 .part2 {
     color: black;
 }
+
 .part3 {
     color: rgb(255, 255, 255);
 }
@@ -51,31 +57,37 @@ button:hover {
 h3 {
     color: rgb(21, 21, 21);
     font-size: ;
-    
+
 }
+
 p {
     color: rgb(117, 117, 117);
 }
 
 /*Koloty footer*/
-footer { 
+footer {
     background-color: rgb(47, 48, 58);
 }
+
 .adres {
     color: rgb(255, 255, 255);
 }
+
 .adres a {
     color: rgb(255, 255, 255);
     opacity: 0.6;
 }
+
 .adres a:hover {
     color: rgb(33, 150, 243);
 }
+
 /*agencja*/
 .first {
     background-color: rgb(47, 48, 58);
     color: rgb(255, 255, 255);
 }
+
 ul {
     list-style-type: none;
-}    
+}
